@@ -24,6 +24,7 @@
     ]
   },
   "dependencies": {
+    "@blitz-guard/core": "0.4.1",
     "@headlessui/react": "1.4.1",
     "@prisma/client": "2.31.0-integration-undici-4.3",
     "blitz": "0.39.0",
